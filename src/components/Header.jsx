@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 import freshLogo from '../assets/fresh.png';
-import headerImage from '../assets/headerimage.png';
+import headerImage from '../assets/headerImage.png';
 import profileIcon from '../assets/profile.svg';
 import deliveryIcon from '../assets/delivery.png';
 import worldIcon from '../assets/world.png';
