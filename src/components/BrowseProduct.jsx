@@ -7,9 +7,9 @@ import brocliImage from "../assets/broccli.png";
 import cauliflowerImage from "../assets/cauliflower.png";
 import onionImage from "../assets/onion.png";
 import pepperImage from "../assets/peer.png";
-import potatoImage from "../assets/potato.png";
-import onionsImage from "../assets/onions.png";
-import celeryImage from "../assets/celery.png";
+import potatoImage from "../assets/Potato.png";
+import onionsImage from "../assets/Onions.png";
+import celeryImage from "../assets/Celery.png";
 import broccoliImage from "../assets/Broccolis.png";
 import bringleImage from "../assets/Bringle.png"
 function BrowseProduct() {
